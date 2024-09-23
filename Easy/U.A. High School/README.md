@@ -2,7 +2,7 @@
 
 **Author**: Hakal  
 **Title**: U.A. High School Official v4  
-**Level**: Fácil  
+**Level**: Easy  
 
 ---
 
