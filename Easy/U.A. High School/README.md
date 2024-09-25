@@ -607,5 +607,3 @@ Regardless of the method used, we successfully escalated privileges to obtain ro
 - **Regular Audits:** Periodic security audits can help identify and mitigate vulnerabilities.
 
 ---
-
-This concludes the detailed walkthrough of the U.A. High School challenge.
