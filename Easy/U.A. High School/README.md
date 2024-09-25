@@ -110,7 +110,7 @@ E a outra é: [LFI](https://github.com/lutfumertceylan/top25-parameter?tab=readm
 Unindo ambas vmaos conseguir validar parameters de LFI e RCE ao mesmo tempo. Desta forma executamos o seguinte comando:
 
 ```bash
-ffuf -u "http://$ip/assets/index.phpFUZZls" -w lfi-rce.txt -fs 0
+ffuf -u "http://$ip/assets/index.phpFUZZ=ls" -w lfi-rce.txt -fs 0
 ```
 Lembrando que a wordlist utilizada é a união das duas acimas, o nome pode ser qualquer um. Lembre-se de remover o `=` no final de cada palavra, para que facilite mais a sua visualização.
 
