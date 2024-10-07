@@ -526,7 +526,7 @@ We inspect the content of `/opt/NewComponent/feedback.sh`.
    - Provide the following input:
 
      ```
-     echo '<your_public_key>' >> /root/.ssh/authorized_keys
+     <your_public_key> >> /root/.ssh/authorized_keys
      ```
 
      ![Evidence of payload and privilege escalation method 2X](30.png)
