@@ -438,7 +438,7 @@ ssh deku@$ip
   sudo -l
   ```
 
-  ![Enumerating Privileges](27.png)
+  ![Enumerating Privileges](35.png)
 
 **Analysis of `sudo -l` Output:**
 
@@ -462,7 +462,7 @@ ssh deku@$ip
 
 We inspect the content of `/opt/NewComponent/feedback.sh`.
 
-![Reading file to find ways to escalate privileges](28.png)
+![Reading file to find ways to escalate privileges](27.png)
 
 **Script Overview:**
 
